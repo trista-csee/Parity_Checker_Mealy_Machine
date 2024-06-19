@@ -4,14 +4,15 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT Name -->
+<!-- PROJECT Name --> 
 <h1 align="center">Design a parity checker Mealy machine</h1>
 
 <!--  State Diagram -->
 ## State Diagram
 * In a Mealy machine, the output depends on both the current state and the current inputs.
-* A general model of a Mealy sequential machine consists of a combinatorial network, which generates the outputs and the next state, and a state register which holds the current state.
-![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/state%20diagram.png)
+* A general model of a Mealy sequential machine consists of a combinatorial network, which generates the outputs and the next state, and a state register which holds the current state as shown below.
+* The state register is normally modeled as D flip-flops.
+* The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
 
 * The two blocks Mealy machine
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/two%20blocks%20Mealy%20machine.png)
@@ -19,11 +20,11 @@
 * The three blocks Mealy machine
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/three%20blocks%20Mealy%20machine.png)
 
-<!-- Schmatic -->
-## Schmatic
-* The state register is normally modeled as D flip-flops.
-* The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
+<!--  Associate Model -->
+## Associate Model
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/state%20diagram.png)
 
+<!-- Schmatic -->
 ## Schmatic_2processes
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Schmatic_2processes.png)
 
