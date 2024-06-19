@@ -11,13 +11,13 @@
 ## State Diagram
 * In a Mealy machine, the output depends on both the current state and the current inputs.
 * A general model of a Mealy sequential machine consists of a combinatorial network, which generates the outputs and the next state, and a state register which holds the current state.
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/state%20diagram.png)
 
 * The two blocks Mealy machine
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/two%20blocks%20Mealy%20machine.png)
 
 * The three blocks Mealy machine
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/three%20blocks%20Mealy%20machine.png)
 
 <!-- Schmatic -->
 ## Schmatic
@@ -25,17 +25,17 @@
 * The other block(s) can be modeled either using the always procedural block or a mixture of the always procedural block and dataflow modeling statements.
 
 ## Schmatic_2processes
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Schmatic_2processes.png)
 
 ## Schmatic_3processes
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Schmatic_3processes.png)
 
 <!-- Simulation -->
 ## Simulation_2processes
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Simulation_2processes.png)
 
 ## Simulation_3processes
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Simulation_3processes.png)
 
 <!-- LICENSE -->
 ## License
@@ -50,7 +50,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Parity_Checker_Mealy_Machine](https://github.com/trista-csee/Parity_Checker_Mealy_Machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
