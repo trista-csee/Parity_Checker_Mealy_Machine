@@ -24,11 +24,11 @@
 ## Associate Model
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/state%20diagram.png)
 
-<!-- Schmatic -->
-## Schmatic_2processes
+<!-- Schematic -->
+## Schematic_2processes
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Schmatic_2processes.png)
 
-## Schmatic_3processes
+## Schematic_3processes
 ![image](https://github.com/trista-csee/Parity_Checker_Mealy_Machine/blob/main/Schmatic_3processes.png)
 
 <!-- Simulation -->
